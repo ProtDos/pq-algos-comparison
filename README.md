@@ -2,6 +2,8 @@
 
 Welcome to the repository for benchmarking various post-quantum cryptographic algorithms. This document provides details on setup, execution, and performance metrics for each algorithm tested.
 
+This is linked to the research for the communication protocol [Zyphor](https://github.com/ProtDos/Zyphor).
+
 ---
 
 ## Speed Testing - Python Implementation
